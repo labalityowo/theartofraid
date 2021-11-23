@@ -32,7 +32,12 @@ Install dependencies
   npm install
 ```
 
-Add Roblox Cookies, Discord Bot token to .env
+Create .env file contains format like this
+
+```bash
+ROBLOX=INSERT
+DISCORD=INSERT
+```
 
 Start the server
 
