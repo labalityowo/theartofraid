@@ -15,17 +15,6 @@ The Soviet Union utilities bot designed for raiders.
 - ninja6245 deep quotes :pensive:
 - Profile checker (discord, roblox)
 
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
 ## Run Locally
 
 Clone the project
@@ -45,6 +34,8 @@ Install dependencies
 ```bash
   npm install
 ```
+
+Add Roblox Cookies, Discord Bot token to .env
 
 Start the server
 
