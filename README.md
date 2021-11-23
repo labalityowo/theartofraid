@@ -2,12 +2,9 @@
 
 The Soviet Union utilities bot designed for raiders.
 
-
-
 ## Authors
 
 - [@labalityowo](https://www.github.com/Labality)
-
 
 ## Features
 
@@ -40,5 +37,8 @@ Add Roblox Cookies, Discord Bot token to .env
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
+## Additional
+
+Feels free to contribute to this project :)
